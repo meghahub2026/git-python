@@ -1,1 +1,23 @@
-i like learning python
+name=gowthami
+name=input("enter your name : ")
+enter your name : gowthami
+print(name)
+gowthami
+print(name*12)
+gowthamigowthamigowthamigowthamigowthamigowthamigowthamigowthami gowthamigowthamigowthamigowthami
+print(name.upper())
+GOWTHAMI
+print(name.lower())
+gowthami
+print(name.strip()*12)
+gowthamigowthamigowthamigowthamigowthamigowthamigowthamigowthami gowthamigowthamigowthamigowthami  
+name=" my name is gowthami"
+print(name) 
+my name is gowthami
+print(name.replace("gowthami" , "meghana"))
+my name is meghana
+
+ 
+
+
+
